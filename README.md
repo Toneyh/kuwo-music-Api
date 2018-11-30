@@ -1,7 +1,7 @@
 ###kuwo-music-Api
 <li>You can use it to get the music source straight chain of <code>www.kuwo.cn</code></li>
 
-<li>Use the display</li>
+<li>Such as</li>
 <li>Access to （index.php?id=music ID）gets his source address</li>
 <li>Such as: index.php?id=29793604</li>
 
