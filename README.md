@@ -7,7 +7,7 @@
 
 <li>How to find a music ID?</li>
 
-<li>For example, the music address is: http://www.kuwo.cn/yinyue/29793604/<code>music ID: 29793604</code></li>
+<li>For example, the music address is: http://www.kuwo.cn/yinyue/29793604/<code>musicID: 29793604</code></li>
 
 <li>Tone-Shadow Moon Fox's official Weibo <a href="https://weibo.com/chinazcwl"arget="_blank"> Tone-Shadow Moon Fox</a></li>
 
